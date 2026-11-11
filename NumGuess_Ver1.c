@@ -59,7 +59,7 @@ int main()
 
     }while(choice==1);
 
-    printf("\n\033[1;36mThanks for Playing...!\033[0m\n");
+    printf("\n\033[1;36mThanks for Playing...!\033[0m\n"); 
     printf("Your Final High Score: %d attempts\n\n",highscore);
 
     return 0;
