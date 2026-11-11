@@ -1,3 +1,21 @@
+//Project: Number Guessing Game_Version 1
+//Author : Anna Roy
+//Date   : 11/11/2026
+/*Description:
+    This is a number guesssing game where the player guesses a randomly generated number between 1 and 100.
+
+    Features:
+    -Random number generation
+    -Attempt counter
+    -High score tracking
+    -Replay or exit option
+
+    What I newly learned:
+    -Using rand() and srand() for random numbers
+    -Using time(0)(or time(NULL) can be used) to seed the random generator. 
+    -Tracking scores using variables
+    -Using ANSI escape codes for terminal colours and formatting
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
