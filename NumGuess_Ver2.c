@@ -1,3 +1,16 @@
+//Project: Number Guessing Game_Version 2
+//Author : Anna Roy
+//Date   : 13/11/2026
+/*Description:
+    This is a number guesssing game where the player guesses a randomly generated number.The range of number is chosen according to selected difficulty.
+
+    New Features:
+    -Added 3 difficulty levels:Easy,Medium and Hard.The maximum number that the computer generates for guessing will be based on this difficulty level.
+
+    What I newly learned:
+    -More ANSI escape codes for terminal colours and formatting
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
