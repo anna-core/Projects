@@ -70,7 +70,7 @@ int main()
         printf("\nEnter your choice: ");
         scanf("%d",&choice);
         
-        if(choice!=1 && choice!=2){
+        while(choice!=1 && choice!=2){
             printf("Invalid choice.Enter your choice once again: ");
             scanf("%d",&choice);
         }
