@@ -6,6 +6,7 @@
 
     New Features:
     -Added 3 difficulty levels:Easy,Medium and Hard.The maximum number that the computer generates for guessing will be based on this difficulty level.
+    -Added an option to view statistics 
 
     What I newly learned:
     -More ANSI escape codes for terminal colours and formatting
